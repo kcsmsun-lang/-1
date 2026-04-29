@@ -1,0 +1,14 @@
+diff --git a/assets/2026-05-05-jeonbuk-special-route-1994.svg b/assets/2026-05-05-jeonbuk-special-route-1994.svg
+new file mode 100644
+index 0000000000000000000000000000000000000000..79342ef1bf76b8819829b6d18cd93b22d7f1c13c
+--- /dev/null
++++ b/assets/2026-05-05-jeonbuk-special-route-1994.svg
+@@ -0,0 +1,8 @@
++<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750" role="img" aria-label="전북현대모터스 특별노선1994 운행안내">
++  <rect width="1200" height="750" fill="#eef2ff"/>
++  <rect x="48" y="48" width="1104" height="654" rx="24" fill="#ffffff" stroke="#c7d2fe"/>
++  <text x="90" y="190" font-size="56" font-family="sans-serif" fill="#1e3a8a">2026-05-05</text>
++  <text x="90" y="300" font-size="58" font-family="sans-serif" fill="#111827">전북현대모터스</text>
++  <text x="90" y="390" font-size="52" font-family="sans-serif" fill="#111827">홈경기 특별노선1994</text>
++  <text x="90" y="480" font-size="48" font-family="sans-serif" fill="#374151">운행안내 홍보자료 예시 이미지</text>
++</svg>
